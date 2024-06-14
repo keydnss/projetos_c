@@ -1,0 +1,4 @@
+Modelo escolhido: Decision Tree
+
+Notas: O código executa um jogo de adivinhação, onde foi utilizado o modelo
+de Decision Tree na linguagem C, abusando de funções e switch case.
